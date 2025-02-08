@@ -8,9 +8,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lpm/proprietary/bin/kpoc_charger:$(TARGET_COPY_OUT_SYSTEM)/bin/kpoc_charger \
     vendor/samsung/lpm/proprietary/etc/init/lpm.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/lpm.rc \
     vendor/samsung/lpm/proprietary/etc/init/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/kpoc_charger.rc \
-    vendor/samsung/lpm/proprietary/lib64/libmaet.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmaet.so \
-    vendor/samsung/lpm/proprietary/lib64/libshowlogo.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libshowlogo.so \
-    vendor/samsung/lpm/proprietary/lib64/libsxqk_skia.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsxqk_skia.so \
+    vendor/samsung/lpm/proprietary/lib/libmaet.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmaet.so \
+    vendor/samsung/lpm/proprietary/lib/libshowlogo.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libshowlogo.so \
+    vendor/samsung/lpm/proprietary/lib/libsxqk_skia.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsxqk_skia.so \
     vendor/samsung/lpm/proprietary/media/battery_error.spi:$(TARGET_COPY_OUT_SYSTEM)/media/battery_error.spi \
     vendor/samsung/lpm/proprietary/media/battery_low.spi:$(TARGET_COPY_OUT_SYSTEM)/media/battery_low.spi \
     vendor/samsung/lpm/proprietary/media/battery_temperature_error.spi:$(TARGET_COPY_OUT_SYSTEM)/media/battery_temperature_error.spi \
